@@ -14,7 +14,7 @@ Summary(zh_CN):	[Í¨Ñ¶]´«Êä¹¤¾ß
 Summary(zh_TW):	[³ñ°Ô]$(B6G?i¤õ(c(B
 Name:		rsyncrypto
 Version:	0.17
-Release:	0.1
+Release:	0.2
 License:	GPL v2
 Group:		Networking/Utilities
 Source0:	http://dl.sourceforge.net/rsyncrypto/%{name}-%{version}.tar.gz
@@ -27,11 +27,10 @@ Source0:	http://dl.sourceforge.net/rsyncrypto/%{name}-%{version}.tar.gz
 #Patch1:		%{name}-man.patch
 URL:		http://rsync.samba.org/
 #BuildRequires:	acl-devel
+BuildRequires:	argtable2-devel
 BuildRequires:	autoconf >= 2.52
 BuildRequires:	automake
 BuildRequires:	openssl-devel
-# TODO:
-BuildRequires:	libargtable2-devel
 #BuildRequires:	popt-devel
 #BuildRequires:	rpmbuild(macros) >= 1.268
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)

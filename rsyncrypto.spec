@@ -3,14 +3,14 @@
 # - fix descriptions and summaries to reflect that it isn't rsync but rsyncrypto
 #
 Summary:	Program for efficient remote updates of files
-Summary(es.UTF-8):   Programa para actualizar archivos remotos de forma eficiente
-Summary(ko.UTF-8):   네트워크를 통한 파일동기화를 위한 프로그램
-Summary(pl.UTF-8):   Program do wydajnego zdalnego uaktualniania plików
-Summary(pt_BR.UTF-8):   Programa para atualizar arquivos remotos de forma eficiente
-Summary(ru.UTF-8):   Программа для эффективного удаленного обновления файлов
-Summary(uk.UTF-8):   Програма для ефективного віддаленого оновлення файлів
-Summary(zh_CN.UTF-8):   [通讯]传输工具
-Summary(zh_TW.UTF-8):   [喙啪]$(B6G?i火(c(B
+Summary(es.UTF-8):	Programa para actualizar archivos remotos de forma eficiente
+Summary(ko.UTF-8):	네트워크를 통한 파일동기화를 위한 프로그램
+Summary(pl.UTF-8):	Program do wydajnego zdalnego uaktualniania plików
+Summary(pt_BR.UTF-8):	Programa para atualizar arquivos remotos de forma eficiente
+Summary(ru.UTF-8):	Программа для эффективного удаленного обновления файлов
+Summary(uk.UTF-8):	Програма для ефективного віддаленого оновлення файлів
+Summary(zh_CN.UTF-8):	[通讯]传输工具
+Summary(zh_TW.UTF-8):	[喙啪]$(B6G?i火(c(B
 Name:		rsyncrypto
 Version:	0.17
 Release:	0.6
